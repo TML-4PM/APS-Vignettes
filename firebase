@@ -1,0 +1,4 @@
+mkdir firebase-site-export
+cd firebase-site-export
+wget --mirror --convert-links --adjust-extension --page-requisites --no-parent https://text-weaver-x1j1k.web.app
+

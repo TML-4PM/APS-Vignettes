@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "default": "text-weaver-x1j1k",
+    "prod": "text-weaver-x1j1k"
+  },
+  "targets": {},
+  "etags": {},
+  "aliases": {
+    "aps-vignettes": "text-weaver-x1j1k"
+  }
+}
